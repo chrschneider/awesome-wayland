@@ -224,6 +224,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Status Bars
 
+* [eww](https://github.com/elkowar/eww) - Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
 * [i3status-rust](https://github.com/greshake/i3status-rust) - Very resource-friendly and feature-rich replacement for i3status, written in pure Rust
 * [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Root Bar is a bar for wlroots based Wayland compositors such as sway
 * [sfwbar](https://github.com/LBCrion/sfwbar) - Sway Floating Window Bar is a taskbar for Sway, focused on a stacking layout workflow
